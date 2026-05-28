@@ -2,11 +2,12 @@
 
 This repository contains notebooks and input data for experiments based on the StereoMolGraph library.
 
-## Paper
+## Papers
 
-The experiments accompany the following paper:
+The experiments accompany the following paper and preprint:
 
-Papusha, M. and Leonhard, K. StereoMolGraph: Stereochemistry-Aware Molecular and Reaction Graphs. *Journal of Chemical Information and Modeling* **2026**, *66* (7), 3830-3839. https://doi.org/10.1021/acs.jcim.5c02523
+- Papusha, M. and Leonhard, K. StereoMolGraph: Stereochemistry-Aware Molecular and Reaction Graphs. *Journal of Chemical Information and Modeling* **2026**, *66* (7), 3830-3839. https://doi.org/10.1021/acs.jcim.5c02523
+- Papusha, M. and Leonhard, K. StereoMolGraph: Stereochemistry-Aware Molecular and Reaction Graphs. *ChemRxiv* (preprint). https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-0g4wn/v2
 
 StereoMolGraph source code: https://github.com/maxim-papusha/StereoMolGraph
 
