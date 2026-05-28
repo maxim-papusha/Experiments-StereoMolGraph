@@ -1,0 +1,14 @@
+[project]
+name = "SI_stereomolgraph"
+version = "1.0.0"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel",
+    "py3dmol",
+    "stereomolgraph",
+    "ipywidgets",
+    "pubchempy",
+    "pandas",
+    "rdkit",
+    "chython",
+]
