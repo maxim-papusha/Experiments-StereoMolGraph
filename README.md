@@ -1,8 +1,4 @@
-# SI StereoMolGraph Experiments
-
-This repository contains notebooks and input data for experiments based on the StereoMolGraph library.
-
-## Papers
+# StereoMolGraph Experiments
 
 The experiments accompany the following paper and preprint:
 
