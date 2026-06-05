@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: If you use this software or the associated experiments, please cite it using these metadata.
+type: software
+title: Experiments StereoMolGraph
+abstract: Experiments and notebooks accompanying StereoMolGraph.
+keywords:
+  - stereochemistry
+  - molecular graph
+  - chemoinformatics
+  - graph theory
+  - chirality
+authors:
+  - given-names: Maxim
+    family-names: Papusha
+    orcid: https://orcid.org/0009-0000-8580-4777
+preferred-citation:
+  type: article
+  title: StereoMolGraph: Stereochemistry-Aware Molecular and Reaction Graphs
+  authors:
+    - given-names: Maxim
+      family-names: Papusha
+      orcid: https://orcid.org/0009-0000-8580-4777
+    - given-names: Kai
+      family-names: Leonhard
+      orcid: https://orcid.org/0000-0001-6231-6957
+  doi: 10.1021/acs.jcim.5c02523
+  url: https://doi.org/10.1021/acs.jcim.5c02523
+  date-released: 2026-04-03
