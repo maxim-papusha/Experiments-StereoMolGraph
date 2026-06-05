@@ -5,7 +5,9 @@ authors:
   - given-names: Maxim
     family-names: Papusha
     orcid: 'https://orcid.org/0009-0000-8580-4777'
-message: If you use this software or the associated experiments, please cite it using these metadata.
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
 repository-code: >-
   https://github.com/maxim-papusha/Experiments-StereoMolGraph
 license: MIT
