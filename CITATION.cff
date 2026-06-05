@@ -14,7 +14,7 @@ license: MIT
 
 preferred-citation:
   type: article
-  title: StereoMolGraph: Stereochemistry-Aware Molecular and Reaction Graphs
+  title: "StereoMolGraph: Stereochemistry-Aware Molecular and Reaction Graphs"
   authors:
     - given-names: Maxim
       family-names: Papusha
