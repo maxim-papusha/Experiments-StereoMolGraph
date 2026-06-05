@@ -23,8 +23,9 @@ preferred-citation:
       family-names: Leonhard
       orcid: 'https://orcid.org/0000-0001-6231-6957'
   journal: Journal of Chemical Information and Modeling
-  volume: 66
-  issue: 7
-  start: 3830
-  end: 3839
+  volume: "66"
+  issue: "7"
+  start: "3830"
+  end: "3839"
+  year: "2026"
   doi: 10.1021/acs.jcim.5c02523
