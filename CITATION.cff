@@ -22,7 +22,7 @@ preferred-citation:
     - given-names: Kai
       family-names: Leonhard
       orcid: 'https://orcid.org/0000-0001-6231-6957'
-  journal: Journal of Chemical Information and Modeling
+  journal: "Journal of Chemical Information and Modeling"
   volume: "66"
   issue: "7"
   start: "3830"
